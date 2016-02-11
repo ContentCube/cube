@@ -2,7 +2,8 @@
 Extendable, completely modular, CMS
 
 # About
-
+  For those that don't know. 
+  
 ## What is it?
   Cube is a modular content-management-system. Everything in cube is divided into small bits called cubes. 
   
