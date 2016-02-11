@@ -22,7 +22,7 @@ Extendable, completely modular, CMS
   At the moment, cube is still very early on. The few technologies we know will be used are below:
   - Node.js
   - Express.js
-  - MongoDb
+  - MongoDB
   - Mongoose ORM
 
   The unique architecture of Cube means that these technologies could change, and other cubes could also use different technologies.
